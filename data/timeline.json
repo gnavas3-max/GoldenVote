@@ -1,0 +1,86 @@
+{
+  "description": "Línea del tiempo de la historia del Balón de Oro - Datos para la sección de contexto",
+  "timeline": [
+    {
+      "year": 1956,
+      "title": "Nace el Balón de Oro",
+      "description": "La revista francesa France Football crea el 'Balón de Oro al Futbolista Europeo del Año'. Solo jugadores con NACIONALIDAD EUROPEA pueden ser nominados.",
+      "impact": "Excluye automáticamente a todos los sudamericanos, africanos y asiáticos del premio.",
+      "icon": "trophy",
+      "mood": "origin"
+    },
+    {
+      "year": 1957,
+      "title": "Di Stéfano gana con pasaporte español",
+      "description": "Alfredo Di Stéfano, nacido en Argentina, gana el Balón de Oro gracias a haber obtenido la nacionalidad española en 1956. Juega para la Selección de España.",
+      "impact": "Demuestra que la nacionalidad, no el talento, era el filtro del premio.",
+      "icon": "passport",
+      "mood": "controversy"
+    },
+    {
+      "year": 1958,
+      "title": "Pelé conquista el mundo a los 17 años",
+      "description": "Brasil gana el Mundial de Suecia con un Pelé de 17 años que maravilla al planeta. NO puede ser candidato al Balón de Oro por ser brasileño.",
+      "impact": "El mejor jugador del mundo ni siquiera aparece en la lista de candidatos.",
+      "icon": "world-cup",
+      "mood": "injustice"
+    },
+    {
+      "year": 1970,
+      "title": "Brasil 70: El mejor equipo de la historia",
+      "description": "Pelé, Jairzinho, Tostão, Rivellino y Gérson destruyen a Italia 4-1 en la final del Mundial de México. Ninguno puede competir por el Balón de Oro.",
+      "impact": "El mejor equipo de todos los tiempos fue invisible para el premio más importante.",
+      "icon": "team",
+      "mood": "injustice"
+    },
+    {
+      "year": 1986,
+      "title": "La Mano de Dios y el Gol del Siglo",
+      "description": "Maradona lleva a Argentina al título mundial con dos de los goles más famosos de la historia contra Inglaterra. A pesar de jugar en el Napoli (Europa), NO puede ganar el Balón de Oro por su nacionalidad argentina.",
+      "impact": "El jugador más decisivo de un Mundial completo queda excluido del premio.",
+      "icon": "hand",
+      "mood": "injustice"
+    },
+    {
+      "year": 1989,
+      "title": "El Super Balón de Oro",
+      "description": "France Football celebra 30 años de la Copa de Europa y entrega por ÚNICA VEZ el Super Balón de Oro. Gana Di Stéfano. Cruyff queda 2º y Platini 3º.",
+      "impact": "Pelé y Maradona siguen excluidos. El premio que debía coronar al mejor de la historia repite las mismas reglas injustas.",
+      "icon": "super-trophy",
+      "mood": "key-event"
+    },
+    {
+      "year": 1995,
+      "title": "Se abren las puertas (a medias)",
+      "description": "France Football permite por primera vez que jugadores no europeos compitan, PERO solo si juegan en clubes europeos. George Weah (Liberia/Milan) es el primer no europeo en ganar.",
+      "impact": "Un avance, pero los jugadores que brillan en Sudamérica, África o Asia siguen fuera.",
+      "icon": "door-open",
+      "mood": "progress"
+    },
+    {
+      "year": 2007,
+      "title": "El Balón de Oro se globaliza",
+      "description": "Finalmente, el premio se abre a CUALQUIER jugador de CUALQUIER liga del mundo. Kaká (brasileño en el Milan) gana ese año.",
+      "impact": "51 años después de su creación, el premio deja de discriminar por origen.",
+      "icon": "globe",
+      "mood": "progress"
+    },
+    {
+      "year": 2016,
+      "title": "France Football reconoce la injusticia",
+      "description": "La propia revista publica una lista retroactiva: si las reglas hubieran sido abiertas desde 1956, Pelé habría ganado 7 Balones de Oro y Maradona 2.",
+      "impact": "La historia oficial reconoce su error. Pero el Super Balón de Oro nunca se repitió.",
+      "icon": "correction",
+      "mood": "resolution"
+    },
+    {
+      "year": 2026,
+      "title": "HOY TÚ DECIDES",
+      "description": "Por primera vez, el mundo entero puede votar sin restricciones. Sin filtros de nacionalidad. Sin filtros de liga. Sin filtros de época. ¿Quién merece el verdadero Super Balón de Oro?",
+      "impact": "Tu voto escribe la historia.",
+      "icon": "vote",
+      "mood": "call-to-action"
+    }
+  ]
+}
+

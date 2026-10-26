@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" width="100%" height="100%" fill="none">
+  <defs>
+    <radialGradient id="goldGlow" cx="50%" cy="45%" r="50%">
+      <stop offset="0%" stop-color="#FFE082" stop-opacity="0.45"/>
+      <stop offset="60%" stop-color="#D4AF37" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#D4AF37" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFF2B2"/>
+      <stop offset="25%" stop-color="#FFE082"/>
+      <stop offset="50%" stop-color="#D4AF37"/>
+      <stop offset="75%" stop-color="#9A7B1C"/>
+      <stop offset="100%" stop-color="#664F0C"/>
+    </linearGradient>
+    <linearGradient id="rubyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF5252"/>
+      <stop offset="50%" stop-color="#C62828"/>
+      <stop offset="100%" stop-color="#5C0000"/>
+    </linearGradient>
+    <linearGradient id="baseGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2A2A35"/>
+      <stop offset="50%" stop-color="#16161C"/>
+      <stop offset="100%" stop-color="#0A0A0D"/>
+    </linearGradient>
+    <filter id="goldShine" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <!-- Ambient Glow -->
+  <circle cx="200" cy="210" r="180" fill="url(#goldGlow)"/>
+
+  <!-- Pedestal / Base -->
+  <path d="M100 420 L300 420 L320 450 L80 450 Z" fill="url(#baseGrad)" stroke="#D4AF37" stroke-width="1.5"/>
+  <path d="M120 370 L280 370 L295 420 L105 420 Z" fill="url(#baseGrad)" stroke="#D4AF37" stroke-width="1.2"/>
+  <rect x="130" y="382" width="140" height="26" rx="3" fill="#111115" stroke="#D4AF37" stroke-width="1"/>
+  <text x="200" y="399" font-family="'Cinzel', serif" font-size="10" font-weight="700" fill="#FFE082" text-anchor="middle" letter-spacing="2">SUPER BALLON D'OR</text>
+  
+  <!-- Red Ruby Plinth Jewel (Historical 1989 signature) -->
+  <polygon points="200,340 225,355 200,370 175,355" fill="url(#rubyGrad)" stroke="#FFE082" stroke-width="1" filter="url(#goldShine)"/>
+
+  <!-- Trophy Column & Laurel Branches -->
+  <path d="M190 340 L190 260 L210 260 L210 340 Z" fill="url(#goldGrad)"/>
+  <path d="M160 330 C130 280 140 220 170 190" stroke="url(#goldGrad)" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M240 330 C270 280 260 220 230 190" stroke="url(#goldGrad)" stroke-width="4" fill="none" stroke-linecap="round"/>
+
+  <!-- Side mini golden spheres (Di Stefano 1989 trophy layout) -->
+  <circle cx="140" cy="220" r="24" fill="url(#goldGrad)" stroke="#FFE082" stroke-width="1"/>
+  <circle cx="260" cy="220" r="24" fill="url(#goldGrad)" stroke="#FFE082" stroke-width="1"/>
+
+  <!-- Central Great Golden Ball (Ballon d'Or) -->
+  <circle cx="200" cy="150" r="75" fill="url(#goldGrad)" filter="url(#goldShine)"/>
+  
+  <!-- Soccer Ball Pentagons & Seams pattern -->
+  <polygon points="200,125 218,138 211,158 189,158 182,138" fill="#8B6909" opacity="0.85"/>
+  <line x1="200" y1="125" x2="200" y2="98" stroke="#664F0C" stroke-width="2.5"/>
+  <line x1="218" y1="138" x2="240" y2="130" stroke="#664F0C" stroke-width="2.5"/>
+  <line x1="211" y1="158" x2="230" y2="180" stroke="#664F0C" stroke-width="2.5"/>
+  <line x1="189" y1="158" x2="170" y2="180" stroke="#664F0C" stroke-width="2.5"/>
+  <line x1="182" y1="138" x2="160" y2="130" stroke="#664F0C" stroke-width="2.5"/>
+
+  <!-- Outer Pentagon accents -->
+  <polygon points="240,130 260,115 265,135 250,150 235,142" fill="#8B6909" opacity="0.6"/>
+  <polygon points="160,130 140,115 135,135 150,150 165,142" fill="#8B6909" opacity="0.6"/>
+
+  <!-- Golden light sparkle -->
+  <circle cx="170" cy="115" r="6" fill="#FFFFFF" opacity="0.8"/>
+  <polygon points="170,105 173,115 183,115 175,119 178,129 170,123 162,129 165,119 157,115 167,115" fill="#FFFFFF" opacity="0.9"/>
+</svg>

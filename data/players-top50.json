@@ -1,0 +1,1014 @@
+{
+  "description": "Top 50 leyendas para la votación del Super Balón de Oro Histórico",
+  "lastUpdated": "2026-10-24",
+  "players": [
+    {
+      "id": 1,
+      "name": "Pelé",
+      "fullName": "Edson Arantes do Nascimento",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "1956-1977",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 7,
+      "clubs": [
+        "Santos",
+        "NY Cosmos"
+      ],
+      "category": "polemica-historica",
+      "highlight": "Excluido del Balón de Oro por ser sudamericano y no jugar en Europa",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Pele_con_brasil_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 2,
+      "name": "Diego Maradona",
+      "fullName": "Diego Armando Maradona",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "era": "1976-1997",
+      "position": "Mediocampista",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 2,
+      "clubs": [
+        "Boca Juniors",
+        "Barcelona",
+        "Napoli",
+        "Sevilla"
+      ],
+      "category": "polemica-historica",
+      "highlight": "Jugó en Europa pero al ser argentino no podía competir por el Balón de Oro",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/48/Argentina_celebrando_copa_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 3,
+      "name": "Lionel Messi",
+      "fullName": "Lionel Andrés Messi Cuccittini",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "era": "2004-presente",
+      "position": "Delantero",
+      "ballonesOficiales": 8,
+      "balonesEstimados": 8,
+      "clubs": [
+        "Barcelona",
+        "PSG",
+        "Inter Miami"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Máximo ganador de la historia con 8 Balones de Oro",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg/500px-Leo_Messi_Argentina_v_Egypt_7_July_2026-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 4,
+      "name": "Cristiano Ronaldo",
+      "fullName": "Cristiano Ronaldo dos Santos Aveiro",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "era": "2002-presente",
+      "position": "Delantero",
+      "ballonesOficiales": 5,
+      "balonesEstimados": 5,
+      "clubs": [
+        "Sporting",
+        "Manchester United",
+        "Real Madrid",
+        "Juventus",
+        "Al Nassr"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "5 Balones de Oro, máximo goleador de la historia",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg/500px-Cristiano_Ronaldo_Croatia_v_Portugal_2_July_2026-075_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 5,
+      "name": "Johan Cruyff",
+      "fullName": "Hendrik Johannes Cruijff",
+      "country": "Países Bajos",
+      "countryCode": "NL",
+      "era": "1964-1984",
+      "position": "Delantero",
+      "ballonesOficiales": 3,
+      "balonesEstimados": 3,
+      "clubs": [
+        "Ajax",
+        "Barcelona",
+        "Feyenoord"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Revolucionó el fútbol total, 3 Balones de Oro",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Johan_Cruijff_%281974%29.jpg/500px-Johan_Cruijff_%281974%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 6,
+      "name": "Alfredo Di Stéfano",
+      "fullName": "Alfredo Stéfano Di Stéfano Laulhé",
+      "country": "Argentina/España",
+      "countryCode": "ES",
+      "era": "1945-1966",
+      "position": "Delantero",
+      "ballonesOficiales": 2,
+      "balonesEstimados": 2,
+      "clubs": [
+        "River Plate",
+        "Millonarios",
+        "Real Madrid"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Ganador del único Super Balón de Oro (1989) gracias a su pasaporte español",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Alfredo_Di_Stefano_River_Plate.jpg/500px-Alfredo_Di_Stefano_River_Plate.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 7,
+      "name": "Zinedine Zidane",
+      "fullName": "Zinedine Yazid Zidane",
+      "country": "Francia",
+      "countryCode": "FR",
+      "era": "1988-2006",
+      "position": "Mediocampista",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Cannes",
+        "Bordeaux",
+        "Juventus",
+        "Real Madrid"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Elegancia pura, campeón del mundo 1998",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Zinedine_Zidane_by_Tasnim_03.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 8,
+      "name": "Ronaldo Nazário",
+      "fullName": "Ronaldo Luís Nazário de Lima",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "1993-2011",
+      "position": "Delantero",
+      "ballonesOficiales": 2,
+      "balonesEstimados": 2,
+      "clubs": [
+        "Cruzeiro",
+        "PSV",
+        "Barcelona",
+        "Inter",
+        "Real Madrid",
+        "Milan"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "El Fenómeno, 2 Balones de Oro a pesar de las lesiones",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/12.12.2025_%E2%80%93_Cerim%C3%B4nia_de_lan%C3%A7amento_do_SBT_News_-_54980664160_%28cropped2%29.jpg/500px-12.12.2025_%E2%80%93_Cerim%C3%B4nia_de_lan%C3%A7amento_do_SBT_News_-_54980664160_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 9,
+      "name": "Ronaldinho",
+      "fullName": "Ronaldo de Assis Moreira",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "1998-2015",
+      "position": "Mediocampista",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Grêmio",
+        "PSG",
+        "Barcelona",
+        "Milan",
+        "Flamengo"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "El fútbol como arte y alegría",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Ronaldinho_in_2019.jpg/500px-Ronaldinho_in_2019.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 10,
+      "name": "Franz Beckenbauer",
+      "fullName": "Franz Anton Beckenbauer",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "era": "1964-1983",
+      "position": "Defensa/Líbero",
+      "ballonesOficiales": 2,
+      "balonesEstimados": 2,
+      "clubs": [
+        "Bayern Munich",
+        "NY Cosmos",
+        "Hamburgo"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "El Kaiser, inventó la posición de líbero moderno",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Franz_Beckenbauer_%281975%29.jpg/500px-Franz_Beckenbauer_%281975%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 11,
+      "name": "Michel Platini",
+      "fullName": "Michel François Platini",
+      "country": "Francia",
+      "countryCode": "FR",
+      "era": "1972-1987",
+      "position": "Mediocampista",
+      "ballonesOficiales": 3,
+      "balonesEstimados": 3,
+      "clubs": [
+        "Nancy",
+        "Saint-Étienne",
+        "Juventus"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "3 Balones de Oro consecutivos (1983-1985)",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/6/66/Michel_Platini_2010_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 12,
+      "name": "Marco van Basten",
+      "fullName": "Marcel van Basten",
+      "country": "Países Bajos",
+      "countryCode": "NL",
+      "era": "1981-1995",
+      "position": "Delantero",
+      "ballonesOficiales": 3,
+      "balonesEstimados": 3,
+      "clubs": [
+        "Ajax",
+        "Milan"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "3 Balones de Oro, carrera truncada por lesiones",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Marco_van_Basten_%282%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 13,
+      "name": "Garrincha",
+      "fullName": "Manuel Francisco dos Santos",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "1951-1972",
+      "position": "Extremo",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Botafogo"
+      ],
+      "category": "polemica-historica",
+      "highlight": "Nunca pudo competir: brasileño jugando solo en Sudamérica",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Manoel_Francisco_dos_Santos-Garrincha.jpg/500px-Manoel_Francisco_dos_Santos-Garrincha.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 14,
+      "name": "Zico",
+      "fullName": "Arthur Antunes Coimbra",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "1971-1994",
+      "position": "Mediocampista",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Flamengo",
+        "Udinese",
+        "Kashima Antlers"
+      ],
+      "category": "polemica-historica",
+      "highlight": "El Pelé Blanco, excluido por nacionalidad",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Zico6.jpg/500px-Zico6.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 15,
+      "name": "Paolo Maldini",
+      "fullName": "Paolo Cesare Maldini",
+      "country": "Italia",
+      "countryCode": "IT",
+      "era": "1985-2009",
+      "position": "Defensa",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Milan"
+      ],
+      "category": "leyenda",
+      "highlight": "25 años en un solo club, el defensa más elegante de la historia",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Paolo_Maldini_AC_Milan_Technical_director_2018.jpg/500px-Paolo_Maldini_AC_Milan_Technical_director_2018.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 16,
+      "name": "Andrés Iniesta",
+      "fullName": "Andrés Iniesta Luján",
+      "country": "España",
+      "countryCode": "ES",
+      "era": "2002-2024",
+      "position": "Mediocampista",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Barcelona",
+        "Vissel Kobe"
+      ],
+      "category": "leyenda",
+      "highlight": "El gol más importante de la historia de España",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_%28cropped%29.jpg/500px-Andr%C3%A9s_Iniesta_Argentina_v_Spain_19_July_2026-034_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 17,
+      "name": "Xavi Hernández",
+      "fullName": "Xavier Hernández Creus",
+      "country": "España",
+      "countryCode": "ES",
+      "era": "1998-2019",
+      "position": "Mediocampista",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Barcelona",
+        "Al Sadd"
+      ],
+      "category": "leyenda",
+      "highlight": "El cerebro del mejor equipo de la historia",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Xavi%2C_Persepolis_vs._Al_Sadd%2C_20190520_02_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 18,
+      "name": "Neymar Jr",
+      "fullName": "Neymar da Silva Santos Júnior",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "2009-presente",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Santos",
+        "Barcelona",
+        "PSG",
+        "Al Hilal"
+      ],
+      "category": "siglo-xxi",
+      "highlight": "El heredero de la magia brasileña",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg/500px-Neymar_Junior_Brazil_V_Morocco_13_June_2026-40.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 19,
+      "name": "Thierry Henry",
+      "fullName": "Thierry Daniel Henry",
+      "country": "Francia",
+      "countryCode": "FR",
+      "era": "1994-2014",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Monaco",
+        "Juventus",
+        "Arsenal",
+        "Barcelona",
+        "NY Red Bulls"
+      ],
+      "category": "leyenda",
+      "highlight": "El rey del Arsenal Invincible",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Thierry_Henry_%2851649035951%29_%28cropped%29.jpg/500px-Thierry_Henry_%2851649035951%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 20,
+      "name": "Kaká",
+      "fullName": "Ricardo Izecson dos Santos Leite",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "2001-2017",
+      "position": "Mediocampista",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "São Paulo",
+        "Milan",
+        "Real Madrid",
+        "Orlando City"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "El último en ganar el Balón de Oro antes de la era Messi-CR7",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Kak%C3%A1_visited_Stadium_St._Petersburg.jpg/500px-Kak%C3%A1_visited_Stadium_St._Petersburg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 21,
+      "name": "George Best",
+      "fullName": "George Best",
+      "country": "Irlanda del Norte",
+      "countryCode": "GB-NIR",
+      "era": "1963-1984",
+      "position": "Extremo",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Manchester United"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "El quinto Beatle del fútbol",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/George_best_1976.jpg/500px-George_best_1976.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 22,
+      "name": "Eusébio",
+      "fullName": "Eusébio da Silva Ferreira",
+      "country": "Portugal/Mozambique",
+      "countryCode": "PT",
+      "era": "1957-1979",
+      "position": "Delantero",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Benfica"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "La Pantera Negra, ganó el Balón de Oro gracias al pasaporte portugués",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Eusebio_en_1973.jpg/500px-Eusebio_en_1973.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 23,
+      "name": "Gerd Müller",
+      "fullName": "Gerhard Müller",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "era": "1964-1981",
+      "position": "Delantero",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Bayern Munich",
+        "Fort Lauderdale Strikers"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "El Bombardero, récord de goles por décadas",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Gerd_M%C3%BCller_c1973_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 24,
+      "name": "Lev Yashin",
+      "fullName": "Lev Ivanovich Yashin",
+      "country": "Unión Soviética/Rusia",
+      "countryCode": "RU",
+      "era": "1950-1970",
+      "position": "Portero",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Dynamo Moscú"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "El único portero en ganar el Balón de Oro (1963)",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/LevYashin.JPG/500px-LevYashin.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 25,
+      "name": "Roberto Baggio",
+      "fullName": "Roberto Baggio",
+      "country": "Italia",
+      "countryCode": "IT",
+      "era": "1982-2004",
+      "position": "Mediocampista/Delantero",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Fiorentina",
+        "Juventus",
+        "Milan",
+        "Bologna",
+        "Inter",
+        "Brescia"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Il Divin Codino, genio y tragedia",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4e/%D8%B1%D9%88%D8%A8%D8%B1%D8%AA%D9%88_%D8%A8%D8%A7%D8%AC%D9%88_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 26,
+      "name": "Romário",
+      "fullName": "Romário de Souza Faria",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "1985-2009",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Vasco da Gama",
+        "PSV",
+        "Barcelona",
+        "Flamengo",
+        "Fluminense"
+      ],
+      "category": "polemica-historica",
+      "highlight": "Campeón del mundo 1994, debió ganar Balón de Oro ese año",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Senadores_da_57%C2%AA_Legislatura_%2852689451805%29_%28cropped_-_3x4%29.jpg/500px-Senadores_da_57%C2%AA_Legislatura_%2852689451805%29_%28cropped_-_3x4%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 27,
+      "name": "Rivaldo",
+      "fullName": "Rivaldo Vítor Borba Ferreira",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "1991-2015",
+      "position": "Mediocampista/Delantero",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Santa Cruz",
+        "Mogi Mirim",
+        "Corinthians",
+        "Palmeiras",
+        "Deportivo",
+        "Barcelona",
+        "Milan",
+        "Olympiacos"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Balón de Oro 1999, magia brasileña en Barcelona",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Rivaldo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 28,
+      "name": "Lothar Matthäus",
+      "fullName": "Lothar Herbert Matthäus",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "era": "1979-2000",
+      "position": "Mediocampista/Defensa",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Borussia Mönchengladbach",
+        "Bayern Munich",
+        "Inter"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "El más completo de Alemania, campeón del mundo 1990",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/2019_Lothar_Matth%C3%A4us.jpg/500px-2019_Lothar_Matth%C3%A4us.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 29,
+      "name": "George Weah",
+      "fullName": "George Tawlon Manneh Oppong Ousman Weah",
+      "country": "Liberia",
+      "countryCode": "LR",
+      "era": "1985-2003",
+      "position": "Delantero",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Monaco",
+        "PSG",
+        "Milan",
+        "Chelsea",
+        "Manchester City",
+        "Marseille"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Primer africano (y no europeo) en ganar el Balón de Oro (1995)",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/5/53/Clar_Weah%2C_George_Weah%2C_Joe_Biden%2C_Jill_Biden_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 30,
+      "name": "Ferenc Puskás",
+      "fullName": "Ferenc Puskás Biró",
+      "country": "Hungría/España",
+      "countryCode": "HU",
+      "era": "1943-1966",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Budapest Honvéd",
+        "Real Madrid"
+      ],
+      "category": "leyenda",
+      "highlight": "El premio al mejor gol del año lleva su nombre",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/9/93/Ferenc_Puskas_en_1965.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 31,
+      "name": "Luka Modrić",
+      "fullName": "Luka Modrić",
+      "country": "Croacia",
+      "countryCode": "HR",
+      "era": "2003-presente",
+      "position": "Mediocampista",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Dinamo Zagreb",
+        "Tottenham",
+        "Real Madrid"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Rompió la hegemonía Messi-CR7 en 2018",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg/500px-Luka_Modric_Croatia_v_Portugal_2_July_2026-055.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 32,
+      "name": "Kylian Mbappé",
+      "fullName": "Kylian Mbappé Lottin",
+      "country": "Francia",
+      "countryCode": "FR",
+      "era": "2015-presente",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Monaco",
+        "PSG",
+        "Real Madrid"
+      ],
+      "category": "siglo-xxi",
+      "highlight": "Campeón del mundo a los 19 años",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg/500px-Kylian_Mbappe_France_v_Senegal_16_June_2026-391_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 33,
+      "name": "Erling Haaland",
+      "fullName": "Erling Braut Haaland",
+      "country": "Noruega",
+      "countryCode": "NO",
+      "era": "2016-presente",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Molde",
+        "RB Salzburg",
+        "Borussia Dortmund",
+        "Manchester City"
+      ],
+      "category": "siglo-xxi",
+      "highlight": "Máquina de goles generacional",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg/500px-Erling_Haaland_Morocco_v_Norway_7_June_2026-51.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 34,
+      "name": "Vinicius Jr",
+      "fullName": "Vinícius José Paixão de Oliveira Júnior",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "2017-presente",
+      "position": "Extremo",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Flamengo",
+        "Real Madrid"
+      ],
+      "category": "siglo-xxi",
+      "highlight": "Figura clave del Real Madrid campeón de Champions",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg/500px-Vin%C3%ADcius_J%C3%BAnior_Brazil_V_Morocco_13_June_2026-207_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 35,
+      "name": "Jude Bellingham",
+      "fullName": "Jude Victor William Bellingham",
+      "country": "Inglaterra",
+      "countryCode": "GB-ENG",
+      "era": "2019-presente",
+      "position": "Mediocampista",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Birmingham City",
+        "Borussia Dortmund",
+        "Real Madrid"
+      ],
+      "category": "siglo-xxi",
+      "highlight": "Impacto inmediato en el Real Madrid",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg/500px-Jude_Bellingham_England_v_Ghana_23_June_2026-061_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 36,
+      "name": "Dani Carvajal",
+      "fullName": "Daniel Carvajal Ramos",
+      "country": "España",
+      "countryCode": "ES",
+      "era": "2010-presente",
+      "position": "Defensa",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Real Madrid",
+        "Bayer Leverkusen"
+      ],
+      "category": "siglo-xxi",
+      "highlight": "Lateral derecho histórico del Real Madrid",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Dani_Carvajal_10_%28cropped%29.jpg/500px-UEFA_EURO_qualifiers_Sweden_vs_Spain_20191015_Dani_Carvajal_10_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 37,
+      "name": "Rodri",
+      "fullName": "Rodrigo Hernández Cascante",
+      "country": "España",
+      "countryCode": "ES",
+      "era": "2015-presente",
+      "position": "Mediocampista",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Villarreal",
+        "Atlético Madrid",
+        "Manchester City"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Balón de Oro 2024, motor del treble del City",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg/500px-Rodri_Argentina_v_Spain_19_July_2026-187_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 38,
+      "name": "Roberto Carlos",
+      "fullName": "Roberto Carlos da Silva Rocha",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "1991-2015",
+      "position": "Defensa",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "União São João",
+        "Palmeiras",
+        "Inter",
+        "Real Madrid"
+      ],
+      "category": "leyenda",
+      "highlight": "El lateral izquierdo más espectacular de la historia",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/LS3_1288_%2853332367864%29_%28cropped%29.jpg/500px-LS3_1288_%2853332367864%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 39,
+      "name": "Cafu",
+      "fullName": "Marcos Evangelista de Moraes",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "1988-2008",
+      "position": "Defensa",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "São Paulo",
+        "Real Zaragoza",
+        "Palmeiras",
+        "Roma",
+        "Milan"
+      ],
+      "category": "leyenda",
+      "highlight": "Único jugador en 3 finales consecutivas de Copa del Mundo",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Cafu_-_26.02.2026_-_Cerim%C3%B4nia_de_apresenta%C3%A7%C3%A3o_das_ta%C3%A7as_da_Copa_do_Mundo_de_2026.jpg/500px-Cafu_-_26.02.2026_-_Cerim%C3%B4nia_de_apresenta%C3%A7%C3%A3o_das_ta%C3%A7as_da_Copa_do_Mundo_de_2026.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 40,
+      "name": "Sergio Ramos",
+      "fullName": "Sergio Ramos García",
+      "country": "España",
+      "countryCode": "ES",
+      "era": "2003-presente",
+      "position": "Defensa",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Sevilla",
+        "Real Madrid",
+        "PSG"
+      ],
+      "category": "leyenda",
+      "highlight": "El gol de la Décima y el defensa más ganador",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Sergio_Ramos_Interview_2021_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 41,
+      "name": "Fabio Cannavaro",
+      "fullName": "Fabio Cannavaro",
+      "country": "Italia",
+      "countryCode": "IT",
+      "era": "1992-2011",
+      "position": "Defensa",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Napoli",
+        "Parma",
+        "Inter",
+        "Juventus",
+        "Real Madrid"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Único defensa en ganar el Balón de Oro en el siglo XXI",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Fabio_Cannavaro_2011.jpg/500px-Fabio_Cannavaro_2011.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 42,
+      "name": "Rivellino",
+      "fullName": "Roberto Rivellino",
+      "country": "Brasil",
+      "countryCode": "BR",
+      "era": "1965-1981",
+      "position": "Mediocampista",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Corinthians",
+        "Fluminense",
+        "Al Hilal"
+      ],
+      "category": "polemica-historica",
+      "highlight": "Leyenda del Brasil 1970, excluido por las reglas europeas",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Rivellino_1970.jpg/500px-Rivellino_1970.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 43,
+      "name": "Mario Kempes",
+      "fullName": "Mario Alberto Kempes",
+      "country": "Argentina",
+      "countryCode": "AR",
+      "era": "1973-1996",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Instituto",
+        "Rosario Central",
+        "Valencia",
+        "River Plate"
+      ],
+      "category": "polemica-historica",
+      "highlight": "Héroe del Mundial 78, excluido por nacionalidad argentina",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Mario_Kempes_Argentina_v_Spain_19_July_2026-036_%28cropped%29.jpg/500px-Mario_Kempes_Argentina_v_Spain_19_July_2026-036_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 44,
+      "name": "Luis Suárez (España)",
+      "fullName": "Luis Suárez Miramontes",
+      "country": "España",
+      "countryCode": "ES",
+      "era": "1953-1973",
+      "position": "Mediocampista",
+      "ballonesOficiales": 1,
+      "balonesEstimados": 1,
+      "clubs": [
+        "Deportivo",
+        "Barcelona",
+        "Inter",
+        "Sampdoria"
+      ],
+      "category": "ganador-oficial",
+      "highlight": "Primer español en ganar el Balón de Oro (1960)",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Luis_Su%C3%A1rez_Miramontes_1962.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled"
+    },
+    {
+      "id": 45,
+      "name": "Luis Suárez (Uruguay)",
+      "fullName": "Luis Alberto Suárez Díaz",
+      "country": "Uruguay",
+      "countryCode": "UY",
+      "era": "2005-presente",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Nacional",
+        "Groningen",
+        "Ajax",
+        "Liverpool",
+        "Barcelona",
+        "Atlético Madrid",
+        "Grêmio",
+        "Inter Miami"
+      ],
+      "category": "leyenda",
+      "highlight": "Depredador goleador, tridente MSN en Barcelona",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Luis_Su%C3%A1rez_2026_%28cropped%29.jpg/500px-Luis_Su%C3%A1rez_2026_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 46,
+      "name": "Zlatan Ibrahimović",
+      "fullName": "Zlatan Ibrahimović",
+      "country": "Suecia",
+      "countryCode": "SE",
+      "era": "1999-2023",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Malmö",
+        "Ajax",
+        "Juventus",
+        "Inter",
+        "Barcelona",
+        "Milan",
+        "PSG",
+        "Manchester United",
+        "LA Galaxy"
+      ],
+      "category": "leyenda",
+      "highlight": "El ego más grande del fútbol y los goles para respaldarlo",
+      "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Zlatan_Ibrahimovi%C4%87_June_2018.jpg/440px-Zlatan_Ibrahimovi%C4%87_June_2018.jpg"
+    },
+    {
+      "id": 47,
+      "name": "Samuel Eto'o",
+      "fullName": "Samuel Eto'o Fils",
+      "country": "Camerún",
+      "countryCode": "CM",
+      "era": "1997-2019",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Real Madrid",
+        "Mallorca",
+        "Barcelona",
+        "Inter",
+        "Chelsea"
+      ],
+      "category": "leyenda",
+      "highlight": "El mejor futbolista africano de su generación",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Sammuel_Eto%27o_Fils_02.jpg/500px-Sammuel_Eto%27o_Fils_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 48,
+      "name": "Philipp Lahm",
+      "fullName": "Philipp Lahm",
+      "country": "Alemania",
+      "countryCode": "DE",
+      "era": "2002-2017",
+      "position": "Defensa",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Bayern Munich",
+        "Stuttgart"
+      ],
+      "category": "leyenda",
+      "highlight": "Inteligencia táctica suprema, campeón del mundo 2014",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Philipp_Lahm_auf_der_Berlinale_2024%2C_Ausschnitt.jpg/500px-Philipp_Lahm_auf_der_Berlinale_2024%2C_Ausschnitt.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 49,
+      "name": "Didier Drogba",
+      "fullName": "Didier Yves Drogba Tébily",
+      "country": "Costa de Marfil",
+      "countryCode": "CI",
+      "era": "1998-2018",
+      "position": "Delantero",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Le Mans",
+        "Guingamp",
+        "Marseille",
+        "Chelsea",
+        "Shanghai Shenhua",
+        "Galatasaray",
+        "Montreal Impact",
+        "Phoenix Rising"
+      ],
+      "category": "leyenda",
+      "highlight": "El guerrero de la Champions, leyenda del Chelsea",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Didier_Drogba_%282019%29_%28cropped2%29.jpg/500px-Didier_Drogba_%282019%29_%28cropped2%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    },
+    {
+      "id": 50,
+      "name": "Michael Laudrup",
+      "fullName": "Michael Laudrup",
+      "country": "Dinamarca",
+      "countryCode": "DK",
+      "era": "1981-1998",
+      "position": "Mediocampista",
+      "ballonesOficiales": 0,
+      "balonesEstimados": 0,
+      "clubs": [
+        "Brøndby",
+        "Juventus",
+        "Lazio",
+        "Barcelona",
+        "Real Madrid",
+        "Vissel Kobe"
+      ],
+      "category": "leyenda",
+      "highlight": "El único jugador brillante en el Dream Team del Barça Y el Madrid",
+      "photo": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Michael_Laudrup_2016c_%28cropped%29.jpg/500px-Michael_Laudrup_2016c_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail"
+    }
+  ],
+  "categories": {
+    "polemica-historica": {
+      "label": "Polémica Histórica",
+      "description": "Jugadores excluidos del Balón de Oro por reglas eurocéntricas",
+      "color": "#FF4444"
+    },
+    "ganador-oficial": {
+      "label": "Ganadores Oficiales",
+      "description": "Jugadores que ganaron al menos un Balón de Oro",
+      "color": "#D4AF37"
+    },
+    "leyenda": {
+      "label": "Leyendas",
+      "description": "Jugadores icónicos que nunca ganaron el Balón de Oro",
+      "color": "#8B8B8B"
+    },
+    "siglo-xxi": {
+      "label": "Siglo XXI",
+      "description": "Jugadores activos y estrellas emergentes",
+      "color": "#00D4FF"
+    }
+  }
+}

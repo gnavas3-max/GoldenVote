@@ -1,0 +1,23 @@
+{
+  "description": "Sistema de puntuación para las votaciones",
+  "scoring": {
+    "1": { "position": "GOAT (#1)", "points": 25 },
+    "2": { "position": "#2", "points": 18 },
+    "3": { "position": "#3", "points": 15 },
+    "4": { "position": "#4", "points": 12 },
+    "5": { "position": "#5", "points": 10 },
+    "6": { "position": "#6", "points": 8 },
+    "7": { "position": "#7", "points": 6 },
+    "8": { "position": "#8", "points": 4 },
+    "9": { "position": "#9", "points": 2 },
+    "10": { "position": "#10", "points": 1 }
+  },
+  "pricePerVote": {
+    "amount": 1.00,
+    "currency": "USD"
+  },
+  "totalPointsPerVoter": 101,
+  "wildcardAllowed": true,
+  "wildcardDescription": "El votante puede incluir UN jugador que no esté en el Top 50 oficial"
+}
+
